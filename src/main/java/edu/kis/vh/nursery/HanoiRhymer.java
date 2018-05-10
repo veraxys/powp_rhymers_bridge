@@ -1,6 +1,6 @@
 package edu.kis.vh.nursery;
 
-public class HanoiRyhmer extends defaultCountingOutRyhmer {
+public class HanoiRhymer extends defaultCountingOutRhymer {
 
 int totalRejected = 0;
 
